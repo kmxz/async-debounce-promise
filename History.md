@@ -1,4 +1,9 @@
-async-debounce-promise 0.0.0 - 2020-01-19
+async-debounce-promise 0.0.2 - 2020-01-19
+==================
+
+* add typings
+
+async-debounce-promise 0.0.1 - 2020-01-19
 ==================
 
 * initial release

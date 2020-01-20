@@ -1,13 +1,14 @@
 {
   "name": "async-debounce-promise",
   "description": "Debounce asynchronous functions",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "repository": {
     "type": "git",
     "url": "git://github.com/kmxz/async-debounce-promise.git"
   },
   "homepage": "https://github.com/kmxz/async-debounce-promise",
   "main": "index.js",
+  "typings": "index.d.ts",
   "scripts": {
     "test": "tape test.js"
   },
