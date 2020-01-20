@@ -1,12 +1,12 @@
 {
-  "name": "async-debounce",
+  "name": "async-debounce-promise",
   "description": "Debounce asynchronous functions",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "repository": {
     "type": "git",
-    "url": "git://github.com/juliangruber/async-debounce.git"
+    "url": "git://github.com/kmxz/async-debounce-promise.git"
   },
-  "homepage": "https://github.com/juliangruber/async-debounce",
+  "homepage": "https://github.com/kmxz/async-debounce-promise",
   "main": "index.js",
   "scripts": {
     "test": "tape test.js"
